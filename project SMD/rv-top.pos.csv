@@ -1,0 +1,14 @@
+Designator     Val             Package                                            Mid X      Mid Y     Rotation  Side
+C1             100n            R_0603_1608Metric                                  177.8000   -53.5940   90.0000  top
+C2             C               R_0603_1608Metric                                  181.5084   -62.8396    0.0000  top
+D1             WS2812B         LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm                 217.6780   -68.5800  180.0000  top
+J1             Conn_01x04_Pin  JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal   154.9400   -53.9750  -90.0000  top
+J2             Conn_01x04_Pin  JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal   154.9400   -39.1000  -90.0000  top
+J3             Conn_01x06_Pin  PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left       217.9320   -52.8320  180.0000  top
+R1             4.7k            R_0603_1608Metric                                  179.8320   -71.6280  180.0000  top
+R2             4.7k            R_0603_1608Metric                                  179.8320   -69.3420  180.0000  top
+U1             XIAO-ESP32S3    Seeeduino_XIAO-MOUDLE14P-2.54-21X17.8MM            171.1383   -81.0044   90.0000  top
+U2             MCP2562-E-SN    SOIC-8_3.9x4.9mm_P1.27mm                           167.0050   -51.4350  180.0000  top
+U4             LSM6DS3         LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y             179.8320   -65.2780  180.0000  top
+U5             R-78E5.0-0.5    Converter_DCDC_RECOM_R-78E-0.5_THT                 182.8800   -49.5300  -90.0000  top
+

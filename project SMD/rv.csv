@@ -1,0 +1,10 @@
+Comment,Designator,Footprint,LCSC
+"100n","C1,C2","Resistor_SMD:R_0603_1608Metric","C2170562"
+"WS2812B","D1","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","C2761795"
+"Conn_01x04_Pin","J1,J2","Connector_JST:JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal",""
+"Conn_01x06_Pin","J3","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1Left",""
+"4.7k","R1,R2","Resistor_SMD:R_0603_1608Metric","C116697"
+"XIAO-ESP32S3","U1","xiao:Seeeduino XIAO-ESP32S3-2.54-21X17.8MM",""
+"MCP2562FD-E-SN","U2","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C124016"
+"LSM6DS3","U4","Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y","C967633"
+"R-78E5.0-0.5","U5","Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT",""
