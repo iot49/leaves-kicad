@@ -1,9 +1,14 @@
+datasheets
+
+demos
+jlcpcb
+kicad_*templates
+OLD*
+*backups
+*cache
+*log
+*lck
+*bak
+
 .DS_Store
-demos/
-kicad_templates/
-lemode/
 
-M5 Templates/M5 repo/
-M5 Templates/kicad conversion/
-
-*.zip
